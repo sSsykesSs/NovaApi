@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rayan\\source\\repos\\NovaApi\\NovaApi\\wwwroot\\pessoas.json",
+      "PackagePath": "staticwebassets\\pessoas.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NovaApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NovaApi.props",
+      "PackagePath": "build\\NovaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NovaApi.props",
+      "PackagePath": "buildMultiTargeting\\NovaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NovaApi.props",
+      "PackagePath": "buildTransitive\\NovaApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

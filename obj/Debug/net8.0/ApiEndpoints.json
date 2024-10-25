@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "NovaApi.Controllers.PessoasController",
+    "Method": "GetPessoas",
+    "RelativePath": "api/Pessoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

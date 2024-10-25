@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jIQPoyq/c6w6K6+ztTssLok5HHrbnaoSLDoUzKhNaCs=",
+  "Source": "NovaApi",
+  "BasePath": "_content/NovaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NovaApi\\wwwroot",
+      "Source": "NovaApi",
+      "ContentRoot": "C:\\Users\\rayan\\source\\repos\\NovaApi\\NovaApi\\wwwroot\\",
+      "BasePath": "_content/NovaApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rayan\\source\\repos\\NovaApi\\NovaApi\\wwwroot\\pessoas.json",
+      "SourceId": "NovaApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rayan\\source\\repos\\NovaApi\\NovaApi\\wwwroot\\",
+      "BasePath": "_content/NovaApi",
+      "RelativePath": "pessoas.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pessoas.json"
+    }
+  ]
+}
