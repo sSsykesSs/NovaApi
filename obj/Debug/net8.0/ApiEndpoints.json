@@ -8,5 +8,74 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NovaApi.Controllers.PessoasController",
+    "Method": "Post",
+    "RelativePath": "api/Pessoas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoa",
+        "Type": "NovaApi.Models.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NovaApi.Controllers.PessoasController",
+    "Method": "GetPessoaPorCpf",
+    "RelativePath": "api/Pessoas/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NovaApi.Controllers.PessoasController",
+    "Method": "UpdatePessoa",
+    "RelativePath": "api/Pessoas/{cpf}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dadosAtualizados",
+        "Type": "NovaApi.Models.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NovaApi.Controllers.PessoasController",
+    "Method": "Delete",
+    "RelativePath": "api/Pessoas/{cpf}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

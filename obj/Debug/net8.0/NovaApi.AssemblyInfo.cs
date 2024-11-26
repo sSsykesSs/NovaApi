@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c13d234843700815d4bc43ffa03ab667646e82")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
